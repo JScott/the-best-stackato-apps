@@ -11,7 +11,7 @@ apps:
   runtime: ruby
   license: MIT
   commit: master
-  src: git@github.com:JScott/robot_sweatshop.git
-  info: http://robotsweat.com
+  src: https://github.com/JScott/robot_sweatshop.git
+  info: https://github.com/JScott/robot_sweatshop.git#readme
   icon: default
   mem: 256
