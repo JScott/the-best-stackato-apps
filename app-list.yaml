@@ -8,11 +8,12 @@ apps:
 - name: Robot Sweatshop
   id: robot-sweatshop
   desc: You'll never need another app
-  framework: ruby
-  runtime: ruby
+  framework: node
+  runtime: node
   license: MIT
   commit: master
   src: https://github.com/JScott/robot_sweatshop.git
   info: https://github.com/JScott/robot_sweatshop.git#readme
   icon: default
   mem: 256
+  
