@@ -1,0 +1,17 @@
+store:
+  title: The Best Stackato Apps
+  contact: Justin Scott <jvscott@gmail.com>
+  icon: http://augustaseotnt.com/wp-content/uploads/2015/04/best-choice-label.jpg
+
+apps:
+- name: Robot Sweatshop
+  id: robot-sweatshop
+  desc: You'll never need another app
+  framework: ruby
+  # runtime: node
+  license: MIT
+  commit: master
+  src: git@github.com:JScott/robot_sweatshop.git
+  info: http://robotsweat.com
+  icon: default
+  mem: 256
