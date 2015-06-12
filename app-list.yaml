@@ -1,7 +1,8 @@
 store:
   title: The Best Stackato Apps
   contact: Justin Scott <jvscott@gmail.com>
-  icon: http://augustaseotnt.com/wp-content/uploads/2015/04/best-choice-label.jpg
+  icon: https://get.stackato.com/store/icon/third-party.png
+#  icon: http://augustaseotnt.com/wp-content/uploads/2015/04/best-choice-label.jpg
 
 apps:
 - name: Robot Sweatshop
