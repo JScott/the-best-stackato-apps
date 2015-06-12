@@ -7,6 +7,8 @@ apps:
 - name: Robot Sweatshop
   id: robot-sweatshop
   desc: You'll never need another app
+  framework: ruby
+  runtime: ruby
   license: MIT
   commit: master
   src: git@github.com:JScott/robot_sweatshop.git
