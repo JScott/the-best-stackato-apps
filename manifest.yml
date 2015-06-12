@@ -1,0 +1,9 @@
+applications:
+- name: robot-sweatshop
+  buildpack: https://github.com/ActiveState/ruby-buildpack
+  mem: 256
+#  stackato:
+#    hooks:
+#      pre-staging:
+#      - yes | gem install bundler
+#      - bundle install
